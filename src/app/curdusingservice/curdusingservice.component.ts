@@ -16,6 +16,6 @@ export class CurdusingserviceComponent implements OnInit {
     //this.curdservice.postData(this.obj);
   }
   newMethod(){}
-
+newmethod54671(){}
 }
 
