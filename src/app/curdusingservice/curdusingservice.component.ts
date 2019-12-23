@@ -15,5 +15,7 @@ export class CurdusingserviceComponent implements OnInit {
     //this.curdservice.getData().subscribe(data => this.emp = data);
     //this.curdservice.postData(this.obj);
   }
+  newMethod(){}
 
 }
+
